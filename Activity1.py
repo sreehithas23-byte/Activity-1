@@ -1,0 +1,5 @@
+print ("Hello, CODINGAL ")
+print (2)
+print ("Hello, \n Codingal")
+print ("Hello",1)
+print ("welcome" ,end="Bye")
