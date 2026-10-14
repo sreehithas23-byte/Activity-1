@@ -6,4 +6,3 @@ Codingal = "Hello Codingal"
 print(Codingal)
 name = input ("Enter your name: ")
 print ("Welcome to \n Codingal",name)
-print 
